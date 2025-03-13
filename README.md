@@ -22,3 +22,9 @@
 
 <!-- Web App Manifest -->
 <link rel="manifest" href="/site.webmanifest">
+
+
+
+<footer style="background-color: #f8f9fa; padding: 20px; text-align: center;">
+    <p>&copy; {{ site.time | date: "%Y" }} log2098</p>
+</footer>  
